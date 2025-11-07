@@ -11,7 +11,7 @@
 
 ## 🧭 Descripción del Proyecto
 
-Este proyecto forma parte de la **Práctica de Series Temporales** del Máster en Ciencia de Datos.  
+Este proyecto forma parte de la **Práctica de Series Temporales** del Máster en Inteligencia Artificial Aplicada de la Universidad Carlos III de Madrid.  
 El objetivo principal es **predecir la temperatura media semanal de la ciudad de Madrid** utilizando diferentes enfoques estadísticos y de *machine learning*, comparando su rendimiento y capacidad de generalización.
 
 El estudio analiza la serie temporal de temperaturas junto con variables exógenas como **precipitación, velocidad del viento y presión atmosférica**, evaluando su influencia en la predicción.
