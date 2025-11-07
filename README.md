@@ -127,6 +127,3 @@ El modelo **SARIMAX** fue el único que logró mejorar su rendimiento al incorpo
 - Torres, J. (2021). *skforecast: Time series forecasting with scikit-learn regressors*.  
 
 ---
-
-## 📦 Estructura del Repositorio
-
